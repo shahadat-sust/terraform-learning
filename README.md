@@ -49,3 +49,8 @@ To fetch external module -
 ```
 terraform get
 ```
+To format terraform file -
+
+```
+terraform fmt
+```
